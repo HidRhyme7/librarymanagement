@@ -1,0 +1,10 @@
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Veri Tabanı Destekli Görsel Programlama Ödev\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
